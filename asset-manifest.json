@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IT2AWTS/static/css/main.44f8b8b5.css",
+    "main.js": "/IT2AWTS/static/js/main.08771814.js",
+    "index.html": "/IT2AWTS/index.html",
+    "main.44f8b8b5.css.map": "/IT2AWTS/static/css/main.44f8b8b5.css.map",
+    "main.08771814.js.map": "/IT2AWTS/static/js/main.08771814.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.08771814.js"
+  ]
+}
